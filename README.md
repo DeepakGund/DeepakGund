@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gund (Rishi)</h1>
 <h3 align="center">A passionate Dev-Sec-Ops Engineer from Pune,India.</h3>
 
-(img align="right" alt="Coding" width="400" src="https://amaxiam.com/wp-content/uploads/DevSecOps-image-2.jpg")
+(<img align="right" alt="Coding" width="400" src="https://amaxiam.com/wp-content/uploads/DevSecOps-image-2.jpg"/>
 
 
 - 🌱 I’m currently learning **K8s, FINOPS**
