@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Gund (Rishi)</h1>
 <h3 align="center">A passionate Dev-Sec-Ops Engineer from Pune,India.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/12/Screenshot-2022-12-27-at-8.53.34-AM-768x431.png">
 
 - 🌱 I’m currently learning **K8s, FINOPS**
 
