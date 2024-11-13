@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deepak Gund</h1>
 <h3 align="center">A passionate Dev-Sec-Ops Engineer from Pune,India.</h3>
 
-- 🌱 I’m currently learning **Linux, K8s, FINOPS**
+- 🌱 I’m currently learning **K8s, FINOPS**
 
-- 💬 Ask me about **Docker, Ansible, Terraform, Grefana**
+- 💬 Ask me about **Docker, Ansible, Terraform, Grefana, AWS**
 
 - 📫 How to reach me **deepakgund19@gmail.com**
 
