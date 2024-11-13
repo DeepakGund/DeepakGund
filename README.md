@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Gund</h1>
-<h3 align="center">A passionate Dev-Sec-Ops Engine from Pune,India.</h3>
+<h3 align="center">A passionate Dev-Sec-Ops Engineer from Pune,India.</h3>
 
 - 🌱 I’m currently learning **Linux, K8s, FINOPS**
 
