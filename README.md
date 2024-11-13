@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **K8s, FINOPS**
 
-- 💬 Ask me about **Docker, Ansible, Terraform, Grefana, AWS**
+- 💬 Ask me about **Jenkins, Docker, Ansible, Terraform, Grefana, AWS**
 
 - 📫 How to reach me **deepakgund19@gmail.com**
 
