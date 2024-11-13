@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepack Gund (Rishi)</h1>
+<h1 align="center">Hi 👋, I'm Deepak Gund (Rishi)</h1>
 <h3 align="center">A passionate Dev-Sec-Ops Engineer from Pune,India.</h3>
 
 - 🌱 I’m currently learning **K8s, FINOPS**
