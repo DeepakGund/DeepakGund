@@ -16,7 +16,9 @@
 
 
 ## 🌐 Socials:
-[![Naukri](https://static.naukimg.com/s/0/0/i/ni-hamburger/naukri_new_logo.svg?logo=Instagram&logoColor=white)](https://www.naukri.com/mnjuser/profile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepackgund) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakgund) 
+[![Naukri](https://static.naukimg.com/s/0/0/i/ni-hamburger/naukri_new_logo.svg?logo=Naukri&logoColor=white)](https://www.naukri.com/mnjuser/profile) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepackgund) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakgund) 
 
 # 💻 Tech Stack:
  
