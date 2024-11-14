@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **deepakgund19@gmail.com**
 
+- ⚡ Fun fact **"Tech-savvy, finance-focused, and nutrition-optimized, I’m all about tracking, tweaking, and transforming every detail for peak performance!"**
+
 
 ## 🌐 Socials:
 [![Naukri](Naukri)](https://www.naukri.com/mnjuser/profile) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deepackgund) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepakgund) 
