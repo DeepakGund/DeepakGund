@@ -3,7 +3,7 @@
 
 ![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
 
-(<img align="right" alt="Coding" width="420" src="https://amaxiam.com/wp-content/uploads/DevSecOps-image-2.jpg"/>
+<img align="right" alt="Coding" width="420" src="https://amaxiam.com/wp-content/uploads/DevSecOps-image-2.jpg"/>
 
 
 - 🌱 I’m currently learning **K8s, FINOPS**
