@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Gund (Rishi)</h1>
-[![MasterHead](![image](https://github.com/user-attachments/assets/47653d0e-0b80-484b-bbc6-97addb6c1f34)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 )
 <h3 align="center">A passionate Dev-Sec-Ops Engineer from Pune,India.</h3>
 
