@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="420" src="https://amaxiam.com/wp-content/uploads/DevSecOps-image-2.jpg"/>
 
 
-- 🌱 I’m currently learning **K8s, FINOPS**
+- 🌱 I’m currently learning **K8s, FINOPS, DevSecOps best practices**
 
 - 💬 Ask me about **Jenkins, Docker, Ansible, Terraform, Grefana**
 
