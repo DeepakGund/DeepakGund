@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Gund (Rishi)</h1>
-[![MasterHead](https://proseful.imgix.net/blogs/df373414-e77c-4d3d-8c7b-35cf55f23396/images/43bc1e57-5fef-4460-bf08-4f79f3654555.gif)
+[![MasterHead](![image](https://github.com/user-attachments/assets/47653d0e-0b80-484b-bbc6-97addb6c1f34)
+)
 <h3 align="center">A passionate Dev-Sec-Ops Engineer from Pune,India.</h3>
 
 (<img align="right" alt="Coding" width="420" src="https://amaxiam.com/wp-content/uploads/DevSecOps-image-2.jpg"/>
